@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com tecnologia da informação
-- 🌱 Estou estudando desenvolvimento web
+- 🌱 Estou estudando desenvolvimento web na @codar.me
 
 **Minha stack atual:**
 <div style="display: inline_block">
