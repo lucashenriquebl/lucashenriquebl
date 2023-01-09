@@ -1,4 +1,4 @@
-### Olá! Sou o Lucas Henrique 👋
+### Olá! Sou o Lucas Henrique! 👋
 
 
 - 🔭 Trabalho com tecnologia da informação
